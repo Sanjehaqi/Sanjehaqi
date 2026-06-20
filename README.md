@@ -11,8 +11,8 @@
 Saya adalah mahasiswa **Politeknik Teknologi Nuklir Indonesia - Badan Riset dan Inovasi Nasional (BRIN)** Yogyakarta. Saya memiliki ketertarikan mendalam pada **Instrumentasi Nuklir, Embedded Systems, Internet of Things (IoT), dan Sistem Kontrol Otomasi**.
 
 - 🔭 **Proyek Terbaru**: Mengembangkan [Smart Radiation Portal Monitoring System (SRPMS)](https://github.com/Sanjehaqi/-Smart-Radiation-Portal-Monitoring-System) — sistem portal monitor radiasi terdistribusi menggunakan 3 Node ESP32, ESP-NOW, dan LVGL HMI.
-- ⚡ **Keahlian Fokus**: Mikroprosesor/Mikrokontroler, Akuisisi Data Sensor (Radiasi, Gas, Lingkungan), Komunikasi Wireless Industri, dan Perancangan GUI SCADA/HMI.
-- 📫 Hubungi saya melalui email di: [sanjehaqi@example.com](mailto:sanjehaqi@example.com) (sesuaikan dengan email Anda)
+- ⚡ **Keahlian Fokus**: Mikroprosesor/Mikrokontroler, Akuisisi Data Sensor (Radiasi, Gas, Lingkungan), Komunikasi Wireless Industri, dan Perancangan GUI/HMI.
+ 
 
 ---
 
